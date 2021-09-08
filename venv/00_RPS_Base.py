@@ -1,1 +1,1 @@
-print("This is Rock Paper Scissors")
+print("This is Rock Paper Scissors :D")
