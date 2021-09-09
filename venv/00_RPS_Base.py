@@ -1,1 +1,3 @@
-print("This is Rock Paper Scissors :D")
+print("Welcome to the Rock Paper Scissors Game!")
+
+rounds_wanted = int(input("How many rounds would you liked to play?"))
