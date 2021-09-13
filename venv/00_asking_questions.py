@@ -64,9 +64,12 @@ def yes_no_instructions(question):
 
 
 def set_gamemode():
-    print("Instructions for the set rounds gamemode")
-
-
+    print("These are the instructions for the set rounds gamemode:")
+    print("You will be asked to insert a number between 1 and 30, this will be how many rounds you will play")
+    print("Then, you will be asked to insert a number between 1 and whatever number you inserted before, this will be the winning round number")
+    print("The first player to win as many rounds as the winning round number wins the game")
+    print("If both players do not reach the winning round number, the game ends in a tie")
+    print("At the end of the game")
 def infinite_gamemode():
     print("Instructions for the infinite rounds gamemode")
 
